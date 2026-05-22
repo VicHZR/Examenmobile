@@ -1,9 +1,19 @@
 # 📱 Mobile UI Test Automation Architecture (Serenity BDD)
 
-<img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle"/>
-<img src="https://img.shields.io/badge/Serenity_Framework-0E76A8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Appium-Mobile_Testing-EE376D?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cucumber-BDD-23D96C?style=for-the-badge"/>
+<p align="left">
+  <a href="https://oracle.com">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  </a>
+  <a href="https://serenity-bdd.info">
+    <img src="https://img.shields.io/badge/Serenity_BDD-0E76A8?style=for-the-badge&logo=java&logoColor=white"/>
+  </a>
+  <a href="https://appium.io">
+    <img src="https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white"/>
+  </a>
+  <a href="https://cucumber.io">
+    <img src="https://img.shields.io/badge/Cucumber-BDD-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
